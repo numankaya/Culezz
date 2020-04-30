@@ -1,5 +1,7 @@
 {
   "name": "Culezz",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
